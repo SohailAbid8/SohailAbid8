@@ -1,43 +1,50 @@
+# 👋 Hi, I'm Sohail Abid
 
-
-# 👋 Hi, I'm Sohail Abid  
-
-🎓 **Business Student | Aspiring Data Analyst**  
+🎓 **Business Student | Aspiring Data Analyst | Digital Marketing Enthusiast**  
 📍 Lahore, Pakistan  
 📧 **Email:** [sailehanjra@gmail.com](mailto:sailehanjra@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/soohailabid](https://www.linkedin.com/in/soohailabid/)  
+💻 **GitHub:** [SohailAbid8](https://github.com/SohailAbid8)  
 
 ---
 
 ## 🚀 About Me
 
-I’m a **BBA student** with a strong interest in **data analytics** and **business insights**.  
-Currently pursuing the **Google Data Analytics Certification**, I aim to blend **business acumen** with **analytical tools** to drive data-informed decision-making.  
+I am a **BBA student** with a passion for leveraging **data analytics** and **digital marketing** to create business growth strategies.  
+Certified in **Google Prompting Essentials**, I aim to combine **business knowledge** with **data-driven insights** for impactful decision-making.  
 
-💡 Passionate about turning raw data into meaningful stories that influence business growth.  
+💡 My focus is on turning raw data into clear, actionable solutions.
 
 ---
 
 ## 🛠 Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=excel,tableau,powerbi,r" alt="Excel, Tableau, Power BI, R" />
+  <img src="https://skillicons.dev/icons?i=excel,tableau,powerbi,postgresql,r" alt="Excel, Tableau, Power BI, SQL, R" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sailehanjra&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sailehanjra&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohailAbid8&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAbid8&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Current Learning Path
+## 📚 Certifications
 
-- 📚 Advancing in **Data Visualization** with Tableau & Power BI  
-- 📈 Building analytical workflows using **Excel & SQL**  
-- 🔍 Applying **R** for statistical analysis in business contexts  
+- 📜 **Google Prompting Essentials** – Coursera  
+- 📜 **Digital Marketing Fundamentals** – Meta / Google  
+- 📜 **Data Analysis & Sciences** – HP Life  
+
+---
+
+## 🎯 Current Goals
+
+- Master **data visualization** using Tableau & Power BI  
+- Build **SQL & R-based** analytical projects  
+- Create a portfolio of **business analytics case studies**  
 
 ---
 
@@ -48,5 +55,4 @@ Currently pursuing the **Google Data Analytics Certification**, I aim to blend *
 
 ---
 
-⭐ *"Turning data into actionable insights that drive smarter business decisions."*
-
+⭐ *"Combining business sense with data-driven insights to shape smarter decisions."*
