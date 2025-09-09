@@ -24,14 +24,6 @@ Certified in **Google Prompting Essentials**, I aim to combine **business knowle
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohailAbid8&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAbid8&layout=compact&theme=tokyonight)
-
----
-
 ## 📚 Certifications
 
 - 📜 **Google Prompting Essentials** – Coursera  
@@ -47,6 +39,15 @@ Certified in **Google Prompting Essentials**, I aim to combine **business knowle
 - Create a portfolio of **business analytics case studies**  
 
 ---
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohailAbid8&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAbid8&layout=compact&theme=tokyonight)
+
+---
+
 
 ## 📬 Connect With Me
 
