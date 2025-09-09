@@ -2,7 +2,7 @@
 
 🎓 **Business Student | Aspiring Data Analyst | Digital Marketing Enthusiast**  
 📍 Lahore, Pakistan  
-📧 **Email:** [sailehanjra@gmail.com](mailto:sailehanjra@gmail.com)  
+📧 **Email:** [soohailabid@gmail.com](mailto:soohailabid@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/soohailabid](https://www.linkedin.com/in/soohailabid/)  
 💻 **GitHub:** [SohailAbid8](https://github.com/SohailAbid8)  
 
